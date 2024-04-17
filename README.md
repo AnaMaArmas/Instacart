@@ -35,8 +35,8 @@ import scipy
 ```
 ## Folder Structure 
 - 01 Project Management (Project Brief)
-- 02 Scripts (Jupyter Notebooks)
-- 03 Sent to client (Final Report in Excel)
+- 03 Scripts (Jupyter Notebooks)
+- 04 Sent to client (Final Report in Excel)
 
 
 
