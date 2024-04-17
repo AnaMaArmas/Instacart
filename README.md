@@ -37,8 +37,3 @@ import scipy
 - 01 Project Management (Project Brief)
 - 03 Scripts (Jupyter Notebooks)
 - 04 Sent to client (Final Report in Excel)
-
-
-
-git add .
-git commit -m "Fixed line endings"
